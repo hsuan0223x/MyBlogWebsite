@@ -7,9 +7,9 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'hsuan0223x\'s blog',  // Title of the website
+  title: 'hsuan0223x\'s Blog',  // Title of the website
   subtitle: ':D',          // Add a subtitle for the site
-  lang: 'zh_TW',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
+  lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
@@ -58,9 +58,9 @@ export const profileConfig: ProfileConfig = {
       url: 'https://t.me/Hsuan0223x',
     },
     {
-      name: 'Discord',
-      icon: 'fa6-brands:discord',
-      url: 'https://store.steampowered.com',
+      name: 'E-mail',
+      icon: 'material-symbols:alternate-email',
+      url: 'mailto:info@hsuan0223x.com',
     },
     {
       name: 'GitHub',
