@@ -6,7 +6,6 @@ image: 'HIT2024.png'
 tags: [review,community,life]
 category: 'Review'
 draft: false 
-lang: 'zh-tw'
 ---
 
 今年 2024 的 HITCON CMT 的官網在 [這裡](https://hitcon.org/2024/CMT/)  

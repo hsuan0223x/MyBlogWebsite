@@ -6,7 +6,6 @@ image: 'images.png'
 tags: [review,linux,certification]
 category: 'Review'
 draft: false 
-lang: 'zh-tw'
 ---
 
 在 2024 年的 07 月 05 號 我已經正式的考到了 RHCSA 這張證照  

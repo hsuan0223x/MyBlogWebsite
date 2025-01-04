@@ -6,7 +6,6 @@ image: 'CTF.png'
 tags: [CTF,write-up,Cyber Secutity]
 category: 'CTF'
 draft: false 
-lang: 'zh-tw'
 ---
 
 ## Misc

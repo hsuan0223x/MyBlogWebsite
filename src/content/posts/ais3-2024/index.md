@@ -6,7 +6,6 @@ image: 'background.jpg'
 tags: [AIS3,Cyber Secutity,review]
 category: 'Review'
 draft: false 
-lang: 'zh-tw'
 ---
 在大二升大三的這一年，我參加了 MyFirstCTF 以及 AIS3 Pre-exam
 在之後順利收到了 AIS3 的錄取通知
