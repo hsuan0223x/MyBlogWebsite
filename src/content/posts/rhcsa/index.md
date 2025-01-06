@@ -2,7 +2,7 @@
 title: RHCSA 心得
 published: 2024-07-14
 description: '考過 Red Hat 基礎 Linux 證照後的心得'
-image: 'images.png'
+image: 'background.png'
 tags: [review,linux,certification]
 category: 'Review'
 draft: false 
