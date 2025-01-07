@@ -3,7 +3,7 @@ title: AIS3 2024 Pre-exam & MyfirstCTF write-up
 published: 2024-07-13
 description: '紀錄在 2024 年 AIS3 Pre-exam 以及 MyfirstCTF 中，所解出來的題目'
 image: 'CTF.png'
-category: Cyber Secutity
+category: CTF
 tags: [AIS3,Cyber Secutity,write-up]
 draft: false 
 lang: 'zh-tw'
