@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:telegram',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://t.me/Hsuan0223x',
+      url: 'https://t.me/hsuan0223x',
     },
     {
       name: 'E-mail',
