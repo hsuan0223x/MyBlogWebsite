@@ -1,7 +1,7 @@
 ---
 title: BroncoCTF 2025 write-up
 published: 2025-02-25
-description: '講述在 BroncoCTF 2025 中所解的一些題目'
+description: '紀錄在 BroncoCTF 2025 中所解的一些題目'
 image: 'CTF.png'
 tags: [CTF,write-up,Cyber Secutity]
 category: 'CTF'

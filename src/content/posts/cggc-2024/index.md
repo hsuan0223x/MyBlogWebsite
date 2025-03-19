@@ -208,14 +208,3 @@ if __name__ == "__main__":
 點進去發現是鐵人賽文章  
 可以在 `day19` 發現了 Telegram bot 的 api 洩漏  
 然後路徑換 getUpdate 查找關鍵字就有了  
-
-## 心得
-
-看到這段其實感觸蠻多的
-
-![image1](/CGGC2024/image1.png)
-![image2](/CGGC2024/image2.png)
-
-讓我想起了學資安的路上最基本的就是  
-解題目 -> 寫&讀 writeup -> 培養思路 化成經驗值  
-然後一直反覆，慢慢變強
