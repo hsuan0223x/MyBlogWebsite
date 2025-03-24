@@ -19,7 +19,7 @@ draft: false
 ### WebSockFish 
 
 這是一個西洋棋樣子的 web  
-![image](https://hackmd.io/_uploads/BJUyz8Ln1g.png =80%x)
+![image](https://hackmd.io/_uploads/BJUyz8Ln1g.png)
 
 當下棋下爛掉的時候，可以發現他發送的 websocket 的 value 變大了 （下圖右邊的 ws eval value）
 ![image](https://hackmd.io/_uploads/BkYtzUI31g.png)
